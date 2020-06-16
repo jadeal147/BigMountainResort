@@ -1,0 +1,3 @@
+Explained Variance Score : 0.9195733951561194
+Mean Absolute Error : 5.58431936223658
+Model Intercept (Y mean): 64.12500429758704
